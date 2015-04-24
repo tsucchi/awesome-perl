@@ -80,7 +80,6 @@ We also recommend these lists.
 * [Moo](https://metacpan.org/pod/Moo) - Class builder supporting meta programming.
 * [Moose](https://metacpan.org/pod/Moose) - The one and only, Moose
 * [Mouse](https://metacpan.org/pod/Mouse) - Yet another class builder like Moo/Moose.
-* [Homer](https://metacpan.org/pod/Homer) - Simple Prototype-based object system.
 
 ## CLI
 
@@ -135,6 +134,7 @@ We also recommend these lists.
 ### Relational Databases
 
 * [DBD::mysql](https://metacpan.org/pod/DBD::mysql)
+* [DBD::Oracle](https://metacpan.org/pod/DBD::Oracle) - Oracle database driver for the DBI module
 * [DBD::Pg](https://metacpan.org/pod/DBD::Pg) - PostgreSQL driver for DBI.
 * [DBD::SQLite](https://metacpan.org/pod/DBD::SQLite)
 
@@ -201,6 +201,7 @@ We also recommend these lists.
 * [Array::Unique](https://metacpan.org/pod/Array::Unique) - Tie-able array that allows only unique values
 * [List::Compare](https://metacpan.org/pod/List::Compare) - Compare elements of two or more lists
 * [List::Gen](https://metacpan.org/pod/List::Gen) - Provides functions for generating lists
+* [List::MoreUtils](https://metacpan.org/pod/List::MoreUtils) - Provide the stuff missing in List::Util
 * [List::Util](https://metacpan.org/pod/List::Util) - A selection of general-utility list subroutines
 
 ## Logging
